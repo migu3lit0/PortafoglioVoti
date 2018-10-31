@@ -15,6 +15,7 @@ Competizione | Data | Directory
 [Codeforces round 512](https://codeforces.com/contest/1058) | 23/09/2018 | dir
 [Codeforces round 514](https://codeforces.com/contest/1059) | 05/10/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_Round_514)
 [SnackDown2019 - Qualifications](https://www.codechef.com/SNCKQL19?utm_source=contest_listing&utm_medium=link&utm_campaign=SNCKQL19) | 14/10/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/SnackDown2019_Qualifications)
-[Technocup 2019 - Elimination Round 2](http://codeforces.com/contest/1031) | 21/10/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/Technocup_2019_Elimination_Round_2)
 [SnackDown2019 - Round1A](https://www.codechef.com/SNCK1A19?utm_source=contest_listing&utm_medium=link&utm_campaign=SNCK1A19) | 19/10/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/SnackDown2019_Round1A)
+[Technocup 2019 - Elimination Round 2](http://codeforces.com/contest/1031) | 21/10/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/Technocup_2019_Elimination_Round_2)
 [SnackDown2019 - Round1B](https://www.codechef.com/SNCK1B19?utm_source=contest_listing&utm_medium=link&utm_campaign=SNCK1B19) | 28/10/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/SnackDown2019_Round1B)
+[Codeforces round 519](https://codeforces.com/contest/1043) | 28/10/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_Round_519)
