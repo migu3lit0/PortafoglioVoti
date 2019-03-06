@@ -1,0 +1,3 @@
+[submodule "progetti/Frequency-Detection-Wireless"]
+	path = progetti/Frequency-Detection-Wireless
+	url = git@github.com:GiovanniBellorio/Frequency-Detection-Wireless.git
