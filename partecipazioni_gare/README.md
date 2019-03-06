@@ -26,4 +26,4 @@ Competizione | Data | Directory
 [Codeforces round 520](https://codeforces.com/contest/1062) | 14/11/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_Round_520)
 [Codeforces round 521](https://codeforces.com/contest/1077) | 16/11/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_Round_521)
 [Codeforces round 528](https://codeforces.com/contest/1087) | 23/12/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_Round_528)
-[Codeforces round 528](https://codeforces.com/contest/1095) | 27/12/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_Round_529)
+[Codeforces round 529](https://codeforces.com/contest/1095) | 27/12/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_Round_529)
