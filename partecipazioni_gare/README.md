@@ -24,4 +24,6 @@ Competizione | Data | Directory
 [Lyft Level 5 Challenge 2018 - Final Round](https://codeforces.com/contest/1075) | 04/11/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/Lyft_level_5_Challange_2018_Final_Round)
 [Mail.Ru Cup](https://codeforces.com/contest/1055) | 10/11/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/Mail.Ru_Cup)
 [Codeforces round 520](https://codeforces.com/contest/1062) | 14/11/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_Round_520)
-[Codeforces round 521](https://codeforces.com/contest/1077) | 16/11/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_Round_520)
+[Codeforces round 521](https://codeforces.com/contest/1077) | 16/11/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_Round_521)
+[Codeforces round 528](https://codeforces.com/contest/1087) | 23/12/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_Round_528)
+[Codeforces round 528](https://codeforces.com/contest/1095) | 27/12/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_Round_529)
