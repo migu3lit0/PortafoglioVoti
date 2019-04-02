@@ -27,3 +27,13 @@ Competizione | Data | Directory
 [Codeforces round 521](https://codeforces.com/contest/1077) | 16/11/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_Round_521)
 [Codeforces round 528](https://codeforces.com/contest/1087) | 23/12/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_Round_528)
 [Codeforces round 529](https://codeforces.com/contest/1095) | 27/12/2018 | [dir](https://github.com/Flipper97/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_Round_529)
+#[Codeforces round 546](https://codeforces.com/contest/1136) | 11/03/2019 | [dir](https://github.com/MarcoBomb/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_Round_546)
+[Codeforces round 547](https://codeforces.com/contest/1141) | 19/03/2019 | [dir](https://github.com/MatteoDanz/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_Round_547)
+#[Codeforces round 548](https://codeforces.com/contest/1139) | 21/03/2019 | [dir](https://github.com/MarcoBomb/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_Round_548)
+[Educational Codeforces round 62](https://codeforces.com/contest/1140) | 22/03/2019 | [dir](https://github.com/MatteoDanz/PortafoglioVoti/tree/master/partecipazioni_gare/Educational_Codeforces_Round_62)
+[CodeChef March Cook-Off 2019](https://www.codechef.com/COOK104?utm_source=contest_listing&utm_medium=link&utm_campaign=COOK104) | 28/03/2019 | [dir](https://github.com/MatteoDanz/PortafoglioVoti/tree/master/partecipazioni_gare/CodeChef_March_Cook-Off_2019)
+[Codeforces round 549](https://codeforces.com/contest/1143) | 30/03/2019 | [dir](https://github.com/MatteoDanz/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_Round_549)
+[Codeforces round 550](https://codeforces.com/contest/1144) | 31/03/2019 | [dir](https://github.com/MatteoDanz/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_Round_550)
+[Codeforces April fools Day Contest 2019](https://codeforces.com/contest/1145) | 01/04/2019 | [dir](https://github.com/MatteoDanz/PortafoglioVoti/tree/master/partecipazioni_gare/Codeforces_AprilFoolsDay_Contest2019)
+
+
